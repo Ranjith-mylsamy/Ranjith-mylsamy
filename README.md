@@ -12,7 +12,7 @@
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge)
+  ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logoColor=white)
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranjith-mylsamy&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&count_private=true" width="410em"/>
   <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith-mylsamy&theme=react&layout=compact&hide=scss,handlebars,shell,ruby,php&hide_border=true&count_private=true"/>
   <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjith-mylsamy&theme=react&show_icons=true&hide_border=true&count_private=true"/></div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ranjith-mylsamy&theme=react&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ranjith-mylsamy&theme=react-dark"/>
 
 </a>
 <br/>
