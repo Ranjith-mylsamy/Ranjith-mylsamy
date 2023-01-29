@@ -32,7 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranjith-mylsamy&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&count_private=true" width="410em"/>
   <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith-mylsamy&theme=react&layout=compact&hide=scss,handlebars,shell,ruby,php&hide_border=true&count_private=true"/>
   <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjith-mylsamy&theme=react&show_icons=true&hide_border=true&count_private=true"/></div>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ranjith-mylsamy&theme=dracula)](https://github.com/Ranjith-mylsamy/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jayashakthi28&theme=redical&hide_border=true"/>
 
 </a>
 <br/>
