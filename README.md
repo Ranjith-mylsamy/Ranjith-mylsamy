@@ -1,11 +1,11 @@
-<img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
+<img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h3 align="left">
   Hello There I am Ranjith
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 &nbsp;
 
-<img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&lines=%F0%9F%92%BBLearning+Full+stack+Web+development;and+Solidity;An+Aspiring+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Believer+of+Decentralized+Web+%E2%9C%8C%EF%B8%8F'>
+<img width='470px' align='center' src='https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&lines=%F0%9F%92%BB Beta+Embedded+Engineer;'>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -26,20 +26,23 @@
   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 <br/>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=Ranjith-mylsamy&style=plastic alt="Ranjith-mylsamy" />
- <br/>
-<a href="https://github.com/Ranjith-mylsamy">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ranjith-mylsamy&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&count_private=true" width="410em"/>
-  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith-mylsamy&theme=react&layout=compact&hide=scss,handlebars,shell,ruby,php&hide_border=true&count_private=true"/>
-  <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjith-mylsamy&theme=react&show_icons=true&hide_border=true&count_private=true"/></div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ranjith-mylsamy&theme=react-dark&hide_border=true"/>
-
-</a>
-<br/>
-<h4>My Top Projects</h4>
-<ul>
-  <li><h6><a href="https://e-learning-platform-f5d7c.web.app/">E-learning platform</a></h6></li>
-  <li><h6><a href="https://acm.kct.ac.in/index.html">KCT's ACM student chapter Webpage</a></h6></li>
- </ul>
-<br>
+    <img src="https://komarev.com/ghpvc/?username=Ranjith-mylsamy&style=plastic" />
+    <br/>
+    <a href="https://github.com/Ranjith-mylsamy">
+      <div style="display: flex; justify-content: space-between;">
+        <img height="180em width="750em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjith-mylsamy&theme=react&layout=compact&hide=scss,handlebars,shell,ruby,php&hide_border=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ranjith-mylsamy&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+      </div>
+    </a>
+    <br/>
+    <br>
+    <div align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjith-mylsamy&theme=react-dark&hide_border=true"/>
+    </div>
+    <br>
+        <h4>My Top Projects</h4>
+    <ul>
+      <li><h6><a href="https://e-learning-platform-f5d7c.web.app/">E-learning platform</a></h6></li>
+      <li><h6><a href="https://acm.kct.ac.in/index.html">KCT's ACM student chapter Webpage</a></h6></li>
+    </ul>
 ⭐️ From <a href="https://github.com/Ranjith-mylsamy">Ranjith-mylsamy</a>
