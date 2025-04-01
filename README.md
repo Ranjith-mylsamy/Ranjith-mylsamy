@@ -5,7 +5,7 @@
 </h3>
 &nbsp;
 
-<img width='470px' align='center' src='https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&lines=%F0%9F%92%BB Beta+Embedded+Engineer;'>
+<img width='470px' align='center' src='https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&lines=%F0%9F%92%BB Beta+Automotive+Embedded+Engineer;'>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
